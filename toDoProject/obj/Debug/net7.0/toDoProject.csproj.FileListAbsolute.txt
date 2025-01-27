@@ -1,0 +1,15 @@
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/bin/Debug/net7.0/toDoProject
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/bin/Debug/net7.0/toDoProject.deps.json
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/bin/Debug/net7.0/toDoProject.runtimeconfig.json
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/bin/Debug/net7.0/toDoProject.dll
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/bin/Debug/net7.0/toDoProject.pdb
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.csproj.AssemblyReference.cache
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.AssemblyInfoInputs.cache
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.AssemblyInfo.cs
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.csproj.CoreCompileInputs.cache
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.dll
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/refint/toDoProject.dll
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.pdb
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/toDoProject.genruntimeconfig.cache
+/Users/colbyjohnson/Desktop/CSharptodoList/toDoProject/obj/Debug/net7.0/ref/toDoProject.dll
